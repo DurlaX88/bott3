@@ -139,4 +139,4 @@ bot.on("message", async message => {
 
 });
 
-bot.login(tokenfile.token);
+bot.login(0abpIFZHFKq6tRBr3D3V1C44I9utIuWQ);
